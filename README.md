@@ -10,7 +10,7 @@ Edgar Anello (1956) Licenciado en Análisis de Sistemas (ESIO Ministerio de Defe
 - Asesor Informático del Honorable Directorio del Banco de la Provincia Bs.As.
 - Consultor en Metodologías de Desarrollo de Software de la Gerencia de Sistemas del BAPRO.
 - Arquitecto de Software de Departamento de Sistemas de RRHH de ARBA.
-- Microsoft Active Professional - Arquitectos de Software del Cono Sur.
+- Microsoft Active Professional
 - Director General de Políticas Económicas y Financieras de la Municipalidad de La Plata
 - Subsecretario de Servicios Informáticos y Comunicaciones de la APR (Agencia Platense de Recaudación de la Municipalidad de La Plata).
 - Consultor Informático y Comunicaciones de AUBASA.
