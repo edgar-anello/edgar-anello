@@ -13,7 +13,8 @@ Edgar Anello (1956) Licenciado en Análisis de Sistemas (ESIO Ministerio de Defe
 - Consultor Informático y Comunicaciones de AUBASA.
 - Consultor Informático y Comunicaciones del Directorio de Télam.
 - CEO de IDELPLA Srl. 
-- DevOps Python-Django - Colegio de Veterinario de la Provincia de Buenos Aires
+- DevOps & Python-Django Full Stack Developer - Colegio de Veterinario de la Provincia de Buenos Aires
+- DevOps & Python-Django Full Stack Developer - Consejo Profesional de Médicos Veterinarios CABA
 - Asesor Informático del Honorable Cámara de Diputados de la Provincia Bs.As.
 - SubGerente de Tecnología y Comunicaciones de Corredores Viales S.A.
 - Consultor Informático – DevOps Odoo -  Grupo BayresArgentina S.A. – Aldyl S.A. – Coes S.A. - 
