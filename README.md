@@ -7,7 +7,7 @@ Edgar Anello (1956) Licenciado en Análisis de Sistemas (ESIO Ministerio de Defe
 - Jefe Departamento de Sistemas de la Secretaria de Relaciones Económicas Internacionales de la Provincia de Buenos Aires
 - Asesor Informático del Honorable Directorio del Banco de la Provincia Bs.As.
 - Consultor en Metodologías de Desarrollo de Software de la Gerencia de Sistemas del BAPRO.
-- Arquitecto de Software de la Genercia de RRHH de ARBA.
+- Arquitecto de Software de la Gerencia de RRHH de ARBA.
 - Director General de Políticas Económicas y Financieras de la Municipalidad de La Plata
 - Subsecretario de Servicios Informáticos y Comunicaciones de la APR (Agencia Platense de Recaudación de la Municipalidad de La Plata).
 - Consultor Informático y Comunicaciones de AUBASA.
